@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Med Manager</string>
+    <string name="title_activity_sign_in">Sign In</string>
+    <string name="title_activity_home">My Medications</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="android_client_id" translatable="false">AIzaSyDleiqtei4D8xTHmX1MWTAIevCzms2-SOc</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_medication">Add Medication</string>
+    <string name="update">UPDATE</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="your_name_here">Your name here</string>
+    <string name="your_profile_image">Your profile image</string>
+    <string name="share_medmanager">Share MedManager</string>
+    <string name="logout">Logout</string>
+    <string name="my_medications">My Medications</string>
+    <string name="my_profile">My Profile</string>
+    <string name="share_med_manager_text">Hey, check out MedManager on www.github.com/mugambbo/medmanager It\'s an app that ensures you never miss to take your medications</string>
+    <string name="permission_necessary">Permission necessary</string>
+    <string name="permission_is_necessary">permission is necessary</string>
+    <string name="time_to_take_your">Time to take your</string>
+    <string name="all_done">All doses\ntaken</string>
+</resources>
